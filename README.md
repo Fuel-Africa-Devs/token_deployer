@@ -1,0 +1,1 @@
+`contract address` : https://app-testnet.fuel.network/contract/0xa288a971c530ed14175cb4ae791078ff29d59af001034fb8e2ce891fde323c7f
